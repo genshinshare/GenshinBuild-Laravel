@@ -1,0 +1,103 @@
+.judul-home {
+    width: 100%;
+    height: max-content;
+    background-color: #031e38;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    color: white;
+    margin-bottom: 15px;
+}
+.kotak-karakter {
+    width: 100%;
+    height: max-content;
+    background-color: white;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+body {
+    background-color: rgb(160, 163, 165);
+}
+.card-body {
+    background-color: #031e38;
+}
+
+.card-text {
+    font-size: large;
+}
+
+.bagi2 {
+    width: 100%;
+    height: max-content;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bagi2-sisi-kiri {
+    width: 70%;
+    height: 100%;
+    margin: 10px;
+}
+
+.bagi2-sisi-kanan {
+    width: 30%;
+    height: 100%;
+    margin: 10px;
+}
+
+.bagi2rata-sisi-kiri {
+    width: 50%;
+    height: 100%;
+    margin: 10px;
+}
+
+.bagi2rata-sisi-kiri > p {
+    font-size: small;
+}
+
+.bagi2rata-sisi-kanan {
+    width: 50%;
+    height: 100%;
+    margin: 10px;
+}
+
+.detail-karakter {
+    width: 100%;
+    height: max-content;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.talenta {
+    width: 100%;
+    height: max-content;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.artefak {
+    width: 100%;
+    height: max-content;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #031e38;
+    color: white;
+}
+
+.karakter-link-card {
+    text-decoration: none;
+}
+
+.karakter-link-card:hover {
+    text-decoration: none;
+}
+
+.zum {
+    transition: all .3s ease-in-out;
+}
+
+.zum:hover {
+    transform: scale(1.05);
+}

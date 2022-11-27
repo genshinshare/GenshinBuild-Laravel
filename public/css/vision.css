@@ -1,0 +1,65 @@
+#PyroText {
+    color: #ea7938;
+}
+#CryoText {
+    color: #9fd6e3;
+}
+#HydroText {
+    color: #5fc1f1;
+}
+#ElectroText {
+    color: #b38cc1;
+}
+#DendroText {
+    color: #9bc926;
+}
+#AnemoText {
+    color: #71c2a7;
+}
+#GeoText {
+    color:  #f2b722;
+}
+
+#PyroBackground {
+    background-color: #ea7938;
+}
+#CryoBackground {
+    background-color: #9fd6e3;
+}
+#HydroBackground {
+    background-color: #5fc1f1;
+}
+#ElectroBackground {
+    background-color: #b38cc1;
+}
+#DendroBackground {
+    background-color: #9bc926;
+}
+#AnemoBackground {
+    background-color: #71c2a7;
+}
+#GeoBackground {
+    background-color:  #f2b722;
+}
+
+#PyroBorder {
+    color: #ea7938;
+}
+#CryoBorder {
+    color: #9fd6e3;
+}
+#HydroBorder {
+    color: #5fc1f1;
+}
+#ElectroBorder {
+    color: #b38cc1;
+}
+#DendroBorder {
+    color: #9bc926;
+}
+#AnemoBorder {
+    color: #71c2a7;
+}
+#GeoBorder {
+    color:  #f2b722;
+}
