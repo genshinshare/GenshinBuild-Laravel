@@ -2,6 +2,20 @@
 @section('head')
     <link rel="stylesheet" href="css/style.css">
     <title>{{$karakter->nama_karakter}} - GenshinBuild</title>
+    <link rel="icon" href="{{ asset('logo.PNG')}}">
+    <style>
+        ::-webkit-scrollbar {
+            width: 5px;
+        }
+    
+        ::-webkit-scrollbar-track {
+            background-color: #f3eaea;
+        }
+    
+        ::-webkit-scrollbar-thumb {
+            background-color: #211146;
+        }
+    </style>
 @endsection
 @section('body')
     <div class="container">

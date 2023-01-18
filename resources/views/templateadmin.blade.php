@@ -6,17 +6,17 @@
         <style>
             ::-webkit-scrollbar {
                 width: 5px;
-                height: 10px;
             }
-  
+        
             ::-webkit-scrollbar-track {
-                background-color: #ddd;
+                background-color: #f3eaea;
             }
-  
+        
             ::-webkit-scrollbar-thumb {
-                background-color: rgb(117, 108, 108);
+                background-color: #211146;
             }
         </style>
+        <link rel="icon" href="{{ asset('logo.PNG')}}">
     </head>
     <body>
         <nav class="navbar navbar-expand-lg navbar-light" style="background-color:black">

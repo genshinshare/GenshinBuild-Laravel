@@ -6,7 +6,7 @@
     <link rel="manifest" href="{{ asset('/manifest.json') }}">
     <title>Halaman Utama</title>
     <link rel="stylesheet" href="css/style.css">
-    
+    <link rel="icon" href="{{ asset('logo.PNG')}}">
 @endsection
 @section('body')
     <div class="container" style="margin-top:10px; margin-bottom:10px;">
