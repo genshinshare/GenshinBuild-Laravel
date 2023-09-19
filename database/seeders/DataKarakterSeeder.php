@@ -16,7 +16,7 @@ class DataKarakterSeeder extends Seeder
             'asal' => 'Liyue',
             'tipe_senjata' => 'Bow',
             'tipe_model' => 'P_sedang',
-            'tanggal_rilis' => '2023-09-19',
+            'tanggal_rilis' => '12-01-2021',
             'lore' => 'The secretary to the Liyue Qixing. The blood of both human and illuminated beast flows within her veins. Graceful and quiet by nature, yet the gentle disposition of qilin sees not even the slightest conflict with even the most arduous of workloads. After all, Ganyu firmly believes that all the work she does is in honor of her contract with Rex Lapis, seeking the well-being of all living things within Liyue.',
             'deskripsi_karakter' => 'Ganyu adalah manusia setengah adeptus, dia memiliki darah Qilin yang ditandakan dengan tanduk di kepalanya. Ganyu memiliki kontrak dengan Archon Geo untuk menjadi sekretaris Liyue Qixing di Yuehai Pavilion hingga saat ini dan telah menjalankan tugasnya hingga ribuan tahun. Ganyu memiliki nafsu makan yang besar sekalipun dia seorang vegetarian. Saat perang Archon dulu, ketika Ganyu dalam bentuk Qilin, dia pernah dimakan hidup-hidup oleh monster berukuran raksasa, namun Ia justru membuat monster tersebut tersedak karena lebarnya pinggang Ganyu saat itu dan akhirnya terselamatkan setelah ditolong oleh Xiao. Karena traumanya itu Ganyu berusaha untuk menjaga bentuk tubuh dan berat badannya. Ganyu memiliki kemampuan untuk membuat panah Es yang dapat meledak di area kecil, Elemental Skill nya menciptakan bunga Es yang dapat mengalihkan perhatian musuh, dan Elemental Burst nya yang membuat hujan Es.',
             'nama_talenta_normal' => 'Liutian Archery',
